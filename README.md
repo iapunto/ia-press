@@ -18,6 +18,18 @@ IA Press es un tema base de WordPress diseñado para crear sitios web profesiona
 * **Rendimiento Optimizado:** IA Press está diseñado para ofrecer un rendimiento rápido y eficiente, mejorando la experiencia del usuario y el posicionamiento en buscadores.
 * **Soporte y Actualizaciones:** Recibe soporte técnico y actualizaciones periódicas para garantizar la compatibilidad y seguridad de tu tema.
 
+## Requisitos
+
+Para utilizar IA Press de manera óptima, se recomienda instalar los siguientes plugins:
+
+* **Elementor:** El constructor de páginas principal para crear y personalizar tus diseños de forma visual.
+* **Yoast SEO:** El plugin de SEO líder para optimizar tu contenido y mejorar tu posicionamiento en buscadores.
+* **WPForms:** Un plugin sencillo y potente para crear formularios de contacto y otros tipos de formularios en tu sitio web.
+
+Estos plugins no están incluidos en el tema, pero puedes instalarlos fácilmente desde el repositorio de plugins de WordPress.
+
+**Nota:** Si bien estos plugins son recomendados, IA Press también puede funcionar sin ellos. Sin embargo, algunas funcionalidades y opciones de personalización podrían estar limitadas.
+
 ## Instalación
 
 1. Descarga el archivo ZIP del tema desde [enlace de descarga].
